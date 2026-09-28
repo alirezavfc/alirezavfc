@@ -1,4 +1,4 @@
-# Hi, I'm Alireza
+# Hi, I'm Alireza Azizi
 
 I'm a **Junior Front-End Developer** focused on building responsive web applications with **React, TypeScript, JavaScript, and Tailwind CSS**.
 
