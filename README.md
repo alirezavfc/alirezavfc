@@ -6,25 +6,35 @@ I enjoy building projects to improve my understanding of modern frontend develop
 
 ## Tech Stack
 
+**Markup & Styling**
+
+* HTML5 (Semantic HTML)
+* CSS3 (Responsive Design, Flexbox, Grid)
+* Tailwind CSS
+
 **Frontend**
 
-* HTML5
-* CSS3
 * JavaScript
-* TypeScript
-* React
+* TypeScript Concepts
+* React Concepts
 * React Router
-* Tailwind CSS
 * Context API
-* Responsive Web Design
 
-**Tools**
+**Forms & Data**
 
-* Git
-* GitHub
-* Vite
-* GitHub Pages
-* Linux
+* React Hook Form & Zod
+* TanStack Query
+* Axios
+
+**Testing & Tools**
+
+* Testing Concepts (Vitest, React Testing Library)
+* Git & GitHub
+* Linux Concepts
+
+**Language**
+
+* English (Reading Technical Documentation)
 
 ## Projects
 
