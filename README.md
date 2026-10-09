@@ -48,6 +48,25 @@ A responsive e-commerce application built with React and TypeScript.
 
 ---
 
+### User Manager — User Management Application
+
+A single-page user management application built with React and TypeScript, focused on form handling, validation, API integration, and server-state management.
+
+**Features:**
+
+* Fetch and display users
+* Create new users
+* Form validation
+* Loading and error states
+* API integration
+* Server-state synchronization
+
+**Tech:** React · TypeScript · Tailwind CSS · React Hook Form · Zod · Axios · TanStack Query · Vite · Vitest · React Testing Library
+
+[Live Demo](https://alirezavfc.github.io/user-manager/) · [GitHub Repository](https://github.com/alirezavfc/user-manager)
+
+---
+
 ### Gradient Generator — CSS Gradient Tool
 
 A browser-based tool for creating CSS gradients and generating the corresponding CSS code.
