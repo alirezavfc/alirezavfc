@@ -19,6 +19,7 @@ I enjoy building projects to improve my understanding of modern frontend develop
 * React Concepts
 * React Router
 * Context API
+* Next.js basics
 
 **Forms & Data**
 
