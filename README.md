@@ -1,41 +1,36 @@
 # Hi, I'm Alireza Azizi
 
-I'm a **Junior Front-End Developer** focused on building responsive web applications with **React, TypeScript, JavaScript, and Tailwind CSS**.
+I'm a **Front-End Developer** focused on building responsive web applications with **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**.
 
 I enjoy building projects to improve my understanding of modern frontend development, clean code, and software development practices.
 
 ## Tech Stack
 
 **Markup & Styling**
-
-* HTML5 (Semantic HTML)
-* CSS3 (Responsive Design, Flexbox, Grid)
-* Tailwind CSS
+- HTML5 (Semantic HTML)
+- CSS3 (Responsive Design, Flexbox, Grid)
+- Tailwind CSS
 
 **Frontend**
-
-* JavaScript
-* TypeScript Concepts
-* React Concepts
-* React Router
-* Context API
-* Next.js basics
+- JavaScript
+- TypeScript Concepts
+- React Concepts
+- React Router
+- Context API
+- Next.js basics
 
 **Forms & Data**
-
-* React Hook Form & Zod
-* TanStack Query
-* Axios
+- React Hook Form & Zod
+- TanStack Query
+- Axios
 
 **Testing & Tools**
-
-* Testing Concepts (Vitest, React Testing Library)
-* Git & GitHub
-* Linux Concepts
+- Testing Concepts (Vitest, React Testing Library)
+- Git & GitHub
+- Linux Concepts
 
 **Language**
-
-* English (Reading Technical Documentation)
+- English (Reading Technical Documentation)
 
 ## Projects
 
@@ -44,18 +39,35 @@ I enjoy building projects to improve my understanding of modern frontend develop
 A responsive e-commerce application built with React and TypeScript.
 
 **Features:**
-
-* Product search
-* Product filtering
-* Price sorting
-* Product details
-* Shopping cart
-* Client-side routing
-* Cart state management
+- Product search
+- Product filtering
+- Price sorting
+- Product details
+- Shopping cart
+- Client-side routing
+- Cart state management
 
 **Tech:** React · TypeScript · Tailwind CSS · React Router · Context API · Vite
 
 [Live Demo](https://alirezavfc.github.io/mini-ecom/) · [GitHub Repository](https://github.com/alirezavfc/mini-ecom)
+
+---
+
+### Persona — Text-Based Social Network
+
+A learning project focused on practicing Next.js and modern frontend development through a minimal, text-based social network. The interface was developed with AI assistance, while the project will evolve as I continue learning.
+
+**Features:**
+- Text-based social feed
+- User profiles
+- Post details and replies
+- Local mock interactions
+- Responsive navigation
+- Static deployment with GitHub Pages
+
+**Tech:** Next.js · TypeScript · React · Tailwind CSS
+
+[Live Demo](https://alirezavfc.github.io/persona/) · [GitHub Repository](https://github.com/alirezavfc/persona)
 
 ---
 
@@ -64,13 +76,12 @@ A responsive e-commerce application built with React and TypeScript.
 A single-page user management application built with React and TypeScript, focused on form handling, validation, API integration, and server-state management.
 
 **Features:**
-
-* Fetch and display users
-* Create new users
-* Form validation
-* Loading and error states
-* API integration
-* Server-state synchronization
+- Fetch and display users
+- Create new users
+- Form validation
+- Loading and error states
+- API integration
+- Server-state synchronization
 
 **Tech:** React · TypeScript · Tailwind CSS · React Hook Form · Zod · Axios · TanStack Query · Vite · Vitest · React Testing Library
 
